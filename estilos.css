@@ -1,0 +1,44 @@
+.box {
+    font-size: 20px;
+    text-align: center;
+    padding: 5px
+}
+
+.contenedor{
+    display: flex;
+    border: 3px solid blue;
+    height: 90vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.box1{
+    background: red
+}
+.box2{
+    background: blue
+}
+.box3{
+    background: tomato
+}
+.box4{
+    background: rgb(20,0, 15)
+}
+.box5{
+    background: green
+}
+.box6{
+    background: yellow
+}
+.box7{
+    background: brown
+}
+.box8{
+    background: aquamarine
+}
+.box9{
+    background: white
+}
+
